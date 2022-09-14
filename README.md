@@ -52,6 +52,10 @@
 
 > Traz mudanças feitas de uma branch para outra especifica
 
+# git pull --rebase origin <nome da branch>
+
+> Traz mudanças feitas de uma branch para outra especifica sem criar commit
+
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 > Template html padrão apenas para testar commits
