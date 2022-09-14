@@ -52,9 +52,6 @@
 
 > Traz mudanças feitas de uma branch para outra especifica
 
-
-> Template html padrão apenas para testar commits
-
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 > Template html padrão apenas para testar commits
