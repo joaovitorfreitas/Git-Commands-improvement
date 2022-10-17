@@ -51,9 +51,6 @@
 # Git revert <Hash do commit>
 > Reverte um commit porem deixá um commit de reversão no histórico de log
 
-# Git revert <Hash do commit>
-> Reverte um commit porem deixá um commit de reversão no histórico de log
-
 # Git reset --soft || hard
 > Remove um commit e remove do histórico 
 > Utilizar "Git push origin master --force" após Git reset
